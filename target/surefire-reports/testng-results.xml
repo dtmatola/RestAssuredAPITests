@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-02T23:36:07 PST" name="Surefire suite" finished-at="2023-05-02T23:36:09 PST" duration-ms="2536">
+  <suite started-at="2023-05-03T00:22:05 PST" name="Surefire suite" finished-at="2023-05-03T00:22:07 PST" duration-ms="2293">
     <groups>
     </groups>
-    <test started-at="2023-05-02T23:36:07 PST" name="Surefire test" finished-at="2023-05-02T23:36:09 PST" duration-ms="2536">
+    <test started-at="2023-05-03T00:22:05 PST" name="Surefire test" finished-at="2023-05-03T00:22:07 PST" duration-ms="2293">
       <class name="com.technical.examination.testCategoryDetails">
-        <test-method signature="category_name_home_and_garden_exists()[pri:1, instance:com.technical.examination.testCategoryDetails@646be2c3]" started-at="2023-05-02T23:36:07 PST" name="category_name_home_and_garden_exists" finished-at="2023-05-02T23:36:09 PST" duration-ms="1705" status="PASS">
+        <test-method signature="category_name_home_and_garden_exists()[pri:1, instance:com.technical.examination.testCategoryDetails@646be2c3]" started-at="2023-05-03T00:22:05 PST" name="category_name_home_and_garden_exists" finished-at="2023-05-03T00:22:06 PST" duration-ms="1537" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- category_name_home_and_garden_exists -->
-        <test-method signature="category_can_relist_enabled()[pri:2, instance:com.technical.examination.testCategoryDetails@646be2c3]" started-at="2023-05-02T23:36:09 PST" name="category_can_relist_enabled" finished-at="2023-05-02T23:36:09 PST" duration-ms="392" status="PASS">
+        <test-method signature="category_can_relist_enabled()[pri:2, instance:com.technical.examination.testCategoryDetails@646be2c3]" started-at="2023-05-03T00:22:06 PST" name="category_can_relist_enabled" finished-at="2023-05-03T00:22:07 PST" duration-ms="375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- category_can_relist_enabled -->
-        <test-method signature="category_promotion_feature_with_correct_description_exists()[pri:3, instance:com.technical.examination.testCategoryDetails@646be2c3]" started-at="2023-05-02T23:36:09 PST" name="category_promotion_feature_with_correct_description_exists" finished-at="2023-05-02T23:36:09 PST" duration-ms="420" status="PASS">
+        <test-method signature="category_promotion_feature_with_correct_description_exists()[pri:3, instance:com.technical.examination.testCategoryDetails@646be2c3]" started-at="2023-05-03T00:22:07 PST" name="category_promotion_feature_with_correct_description_exists" finished-at="2023-05-03T00:22:07 PST" duration-ms="365" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- category_promotion_feature_with_correct_description_exists -->
