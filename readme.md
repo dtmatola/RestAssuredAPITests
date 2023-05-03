@@ -24,9 +24,19 @@
   * AC#3 - category_promotion_feature_with_correct_description_exists
 
 # How to run the test
+* Cloning the repository
+  ```
+  git clone https://github.com/dtmatola/RestAssuredAPITests.git
+  ```
+* Go to base directory
+  ```
+  cd RestAssuredAPITests
+  ```
 * CLI
   * In base folder (/RestAssuredAPITests), where pom.xml is located, execute the ff. command:
-    * mvn test -Dtest="testCategoryDetails"
+    ```
+    mvn test -Dtest="testCategoryDetails"
+    ```
 * IntelliJ IDEA
   * Right click RestAssuredAPITests
     * Hover mouse cursor to Maven
