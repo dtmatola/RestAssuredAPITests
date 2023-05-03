@@ -8,7 +8,7 @@
     * AC#3: The "Promotions" element with Name = "Feature" has a "Description" that contains the text "Better position in category"
 
 # Pre-requisites:
-* jav --version
+* java --version
   * openjdk 11.0.19 2023-04-18
   * OpenJDK Runtime Environment Homebrew (build 11.0.19+0)
   * OpenJDK 64-Bit Server VM Homebrew (build 11.0.19+0, mixed mode)
