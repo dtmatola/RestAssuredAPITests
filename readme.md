@@ -19,6 +19,7 @@ https://api.tmsandbox.co.nz/v1/Categories/6329/Details.json?catalogue=false
 ## Setting up the environment
 
 Install the required dependencies:
+* Machine is running on MacOS Monterey v12.x.x 
 
 Java 11 (using Homebrew)
 ```
@@ -34,6 +35,8 @@ Maven (using Homebrew)
 ```
 brew install maven
 ```
+
+In case your machine is running on different Operating System, kindly install the dependencies using your OS's way of installation.
 
 IntelliJ IDEA
 * You can install this one by downloading the installer from their repository.
